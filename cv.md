@@ -5,14 +5,14 @@ Kamila Mursalimova
 
 **E-mail** mursalimovi@mail.ru
 # About me
+Responsible, attentive, ready for new knowledges, non-confrontational
 # Skills
 ## Languages
-C, C++, C#, Delphi, Python, R, HTML, CSS, SQL
-## Frameworks
-Java Spring Framework
+C++, HTML, CSS, SQL
+## Technologies
+Networking, neural networks
 # Work experience
 **2018** - work experience in the User support department, Kazakhmys Corporation LLP
-
 # Education
 **2018-2020** - Master's degree at The Bonch-Bruevich St. Petersburg State University of Telecommunications (St. Petersburg, Russia)
 
@@ -38,5 +38,3 @@ Java Spring Framework
 B1-Intermediate
 ## Language practice 
 Student exchange program in the Czech Technical University (Prague, Czech Republic)
-
-
