@@ -28,9 +28,9 @@ Networking, neural networks
 
 ## Additional education
 
-**2018** - optional course in robotics, KarSU
+**2018** - optional course in Robotics, KarSU
 
-**2017** - lectures of functional software testing, Epam Kazakhstan LLP
+**2017** - lectures of Functional software testing, Epam Kazakhstan
 
 **2016** - student exchange program, studied for a semester at the Czech Technical University, Prague, Czech Republic
 
