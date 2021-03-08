@@ -11,8 +11,7 @@ Responsible, attentive, ready for new knowledges, non-confrontational
 C++, HTML, CSS, SQL
 ## Technologies
 Networking, neural networks
-# Work experience
-**2018** - practice in the User support department, Kazakhmys Corporation
+
 # Education
 **2018-2020** - Master's degree at The Bonch-Bruevich St. Petersburg State University of Telecommunications (St. Petersburg, Russia)
 
