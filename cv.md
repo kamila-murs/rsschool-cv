@@ -5,7 +5,7 @@ Kamila Mursalimova
 
 **E-mail** mursalimovi@mail.ru
 # About me
-Responsible, attentive, ready for new knowledges, non-confrontational
+Responsible, attentive, ready for new knowledges
 # Skills
 ## Languages
 C++, HTML, CSS, SQL
