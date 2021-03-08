@@ -29,11 +29,11 @@ Networking, neural networks
 
 **2018** - optional course in Robotics, KarSU
 
-**2017** - lectures of Functional software testing, Epam Kazakhstan
+**2017** - lectures on Functional software testing, Epam Kazakhstan
 
-**2016** - student exchange program, studied for a semester at the Czech Technical University, Prague, Czech Republic
+**2016** - student exchange program at Czech Technical University, Prague, Czech Republic
 
 # English
 B1-Intermediate
 ## Language practice 
-Student exchange program in the Czech Technical University (Prague, Czech Republic)
+Student exchange program in Czech Technical University (Prague, Czech Republic)
